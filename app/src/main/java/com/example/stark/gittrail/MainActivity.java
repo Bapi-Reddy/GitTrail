@@ -13,6 +13,6 @@ public class MainActivity extends AppCompatActivity {
         String a = "";
         String b = "afsljads;";
         boolean f = true;
-        double c = 1.30;
+        double c = 1.3678;
     }
 }
