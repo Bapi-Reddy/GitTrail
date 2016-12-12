@@ -14,5 +14,7 @@ public class MainActivity extends AppCompatActivity {
         String b = "afsljads;";
         boolean f = true;
         double c = 1.30;
+        String x = "trailss";
+
     }
 }
