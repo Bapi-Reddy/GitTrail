@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
         double c = 1.30;
         String x = "trailss";
         int v = 90;
+        int k = 16;
 
     }
 }
